@@ -82,13 +82,6 @@ Use prompts with "TOK person" to reference yourself:
 - "TOK person in a professional portrait"
 - "TOK person as an anime character"
 
-## Cost
-
-Training costs approximately **$2.26 per 1000 steps** on fal.ai.
-
-- 500 steps: ~$1.13
-- 1000 steps: ~$2.26 (recommended)
-- 2000 steps: ~$4.52
 
 ## API Reference
 
